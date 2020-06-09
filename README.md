@@ -7,3 +7,5 @@ Implementacja sieci neuronowych MLP
 Implementacja sieci Kohonena (Self Organizing Maps)
 
 Implementacja algorytmu genetycznego i rozwiązanie problemu 'cutting stock'.
+
+Implementacja algorytmu NEAT
